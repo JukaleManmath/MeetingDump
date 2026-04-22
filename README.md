@@ -8,7 +8,11 @@ MeetingDump uses Groq's free Llama 3.3 70B API to extract four structured sectio
 
 ## Demo
 
-[https://github.com/user-attachments/assets/demo_video/demo.mov](https://github.com/JukaleManmath/MeetingDump/blob/master/demo_video/demo.mov)
+
+
+https://github.com/user-attachments/assets/2425141b-3298-4a31-95ba-13fae5107d74
+
+
 
 ---
 
